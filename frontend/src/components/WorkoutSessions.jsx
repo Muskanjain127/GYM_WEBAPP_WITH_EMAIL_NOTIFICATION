@@ -6,44 +6,45 @@ const WorkoutSessions = () => {
       <div className="wrapper">
         <h1>TOP WORKOUT SESSION</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur,
-          quisquam. Eaque alias, blanditiis quidem maiores illo unde ipsam!
+          Push your limits with our expert-led training sessions designed to
+          build strength, boost endurance, and help you reach peak
+          performance faster.
         </p>
         <img src="/img5.jpg" alt="workout" />
       </div>
       <div className="wrapper">
         <h1>FEATURED BOOTCAMPS</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-          impedit quasi sunt amet rerum accusamus odio eveniet unde?
+          High-intensity group programs built to challenge every muscle group
+          and keep you motivated with the energy of a team behind you.
         </p>
         <div className="bootcamps">
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Strength & Conditioning</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Build raw power and functional strength with progressive
+              resistance training designed by certified coaches.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>HIIT Fat Burn</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Torch calories and improve cardiovascular health with fast-paced
+              interval circuits that keep results coming.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>CrossFit Bootcamp</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Combine strength, agility, and endurance in dynamic workouts
+              that push you past your previous limits.
             </p>
           </div>
           <div>
-            <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <h4>Core & Flexibility</h4>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-              saepe repellendus nemo sit facere ipsam!
+              Strengthen your core and improve mobility with targeted
+              routines that support every other workout you do.
             </p>
           </div>
         </div>
